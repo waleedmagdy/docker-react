@@ -7,10 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Waleed Magdy React App.
-	  Version 3.0
-	          after docker compose
-        </p>
+          This is Waleed Magdy.  </p>
         <a
           className="App-link"
           href="https://reactjs.org"
